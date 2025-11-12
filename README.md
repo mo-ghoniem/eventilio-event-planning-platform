@@ -84,7 +84,7 @@ Eventilio is built on a modular, distributed architecture with the following cor
 
 ## 🕸️ Vendor Data Scraper
 
-A **Django-based scraper** integrates directly with eventilio to fetch and update vendor data automatically.
+A **Django-based scraper** integrates directly with Eventilio to fetch and update vendor data automatically.
 
 - Scrapes **158+ vendor pages** in ~10 seconds.  
 - Classifies vendors into **11 event categories** (venues, catering, florists, DJs, etc.).  
