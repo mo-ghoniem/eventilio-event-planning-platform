@@ -1,4 +1,4 @@
-# 🎉 Eventify  
+# 🎉 Eventilio  
 ### *Plan. Organize. Celebrate — effortlessly.*
 
 ![Java](https://img.shields.io/badge/Java-17-orange?logo=openjdk&logoColor=white)
@@ -14,7 +14,7 @@
 
 ## 🏰 Overview
 
-**Eventify** is a **Spring Boot microservices application** that simplifies planning weddings and special events.  
+**Eventilio** is a **Spring Boot microservices application** that simplifies planning weddings and special events.  
 It empowers users to manage guest lists, track RSVPs, and connect with a curated network of trusted vendors — all through a unified, secure, and resilient platform.
 
 ---
@@ -49,7 +49,7 @@ It empowers users to manage guest lists, track RSVPs, and connect with a curated
 
 ## 🧩 Microservices Architecture
 
-Eventify is built on a modular, distributed architecture with the following core services:
+Eventilio is built on a modular, distributed architecture with the following core services:
 
 - 🧑‍💼 **User Service** – Handles registration, authentication, and user profile management.  
 - 💌 **Guest Service** – Manages guest lists, invitations, and RSVP tracking.  
@@ -84,7 +84,7 @@ Eventify is built on a modular, distributed architecture with the following core
 
 ## 🕸️ Vendor Data Scraper
 
-A **Django-based scraper** integrates directly with Eventify to fetch and update vendor data automatically.
+A **Django-based scraper** integrates directly with eventilio to fetch and update vendor data automatically.
 
 - Scrapes **158+ vendor pages** in ~10 seconds.  
 - Classifies vendors into **11 event categories** (venues, catering, florists, DJs, etc.).  
