@@ -1,0 +1,5 @@
+beautifulsoup4==4.9.1
+Django==5.0.6
+djangorestframework==3.15.2
+Requests==2.32.3
+selenium==4.26.1

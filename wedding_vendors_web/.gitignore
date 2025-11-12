@@ -1,0 +1,21 @@
+# Ignore ypcache directory
+__pycache__/
+
+# Ignore all CSV files
+*.csv
+
+
+# Django specific files
+*.log
+*.sqlite3
+db.sqlite3
+/media
+/staticfiles
+*.pot
+*.pyc
+
+
+
+
+
+
